@@ -414,9 +414,9 @@ asynckit@^0.4.0:
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
 aws-sdk@^2.739.0:
-  version "2.879.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.879.0.tgz#d9fb5a8babac1ed0b3d0fb38a88e561580256082"
-  integrity sha512-HRfjGwST1U9AvCJFAyqpAJwbjFR4LqUyEUk77qdJpdYHL9pGPHdnEfGRkBkPn36xcC7Em6gVvFveVoEihbQUyQ==
+  version "2.935.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.935.0.tgz#f122667a4b004d6cf5761e754d42f507b1fc36f7"
+  integrity sha512-OeoqkZ0fXPC1xjumoFQmPccASXmGBBNBsI3l9vs/NCQk3WyBfiYh07H6RO5owtCmp0a8hAjKSZAHjnRe2JlmEA==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
